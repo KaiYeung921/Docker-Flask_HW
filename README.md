@@ -1,5 +1,4 @@
 🐳 Flask in a Docker Container
-A tiny Flask app served up inside Docker — because nothing says "it works on my machine" like containerizing the whole machine.
 What's in here
 A simple Flask web app that runs inside a Docker container on a remote Linux server, accessible via SSH port forwarding.
 The real homework
